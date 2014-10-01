@@ -23,7 +23,6 @@ public class Poker {
     public void addHand(Hand h) {
         hands.add(h);
     }
-    
     /**
      * @return the best hand 
      */
